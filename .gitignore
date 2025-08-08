@@ -1,0 +1,15 @@
+# Arduino specific
+*.ino.elf
+*.ino.bin
+*.hex
+build/
+
+# Secrets
+secrets.h
+
+# OS-generated
+.DS_Store
+Thumbs.db
+
+*.swp
+
